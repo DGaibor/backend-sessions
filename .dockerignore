@@ -1,0 +1,6 @@
+bin/
+obj/
+.env
+*.md
+.git/
+.gitignore
